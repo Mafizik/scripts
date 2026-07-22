@@ -67,9 +67,8 @@
 "Jusper_Pizzaro": "5",
 "Leva_Milliardov": "5",
 "Moon_Ferzeco": "5"
-
 },
-    home_admins = {
+    "home_admins": {
     "Lance_Heatley": "8",
 "Stefania_Soulless": "7",
 "John_Nichols": "6",
