@@ -1,6 +1,6 @@
 script_name('ConnectTool') 
 script_author('mafizik') 
-script_version("04.08.2026")
+script_version("06.08.2026")
 
 require("lib.moonloader")
 require("lib.sampfuncs")
